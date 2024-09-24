@@ -24,6 +24,11 @@
 
 - install git
   - sudo apt-get install -y git
+  - setup git
+    - git config --global user.email "goran.mrzljak@gmail.com"
+    - git config --global user.name "Goran Mržljak"
+    - maybe there is a better way, directly writing to config? maybe the above is better
+
 
 - install zsh
   - sudo apt-get install -y zsh
@@ -44,6 +49,9 @@
   - setup
     - create ~/.vimrc
       - see what it looks like for details
+
+- setup i3
+  - install i3
   
 - install chrome
   - cd ~/Downloads
